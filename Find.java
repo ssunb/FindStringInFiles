@@ -1,6 +1,7 @@
 /**  This program finds a string from all the files within a directory
  **  and its sub-directories.
  **  Author:  Subel Sunbeeb  
+ **  Email: subel.sunbeeb@gmail.com
  **  Date  :  10/18/98  
  **/
 
